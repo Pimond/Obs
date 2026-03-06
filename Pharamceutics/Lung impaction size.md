@@ -1,0 +1,7 @@
+| **Particle Size (μm)**    | **Primary Deposition Site**   | **Mechanism**                                                                                                                                |
+| ------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **$> 10\ \mu\text{m}$**   | **Oropharynx / Mouth**        | **Impaction:** They are too heavy to turn the corner at the back of the throat. They end up being swallowed (causing systemic side effects). |
+| **$5 – 10\ \mu\text{m}$** | **Trachea & Central Airways** | **Impaction:** They land in the large conducting pathways.                                                                                   |
+| **$1 – 5\ \mu\text{m}$**  | **Bronchioles & Alveoli**     | **Sedimentation:** This is the "Respirable Fraction." Gravity pulls them down into the smaller tubes.                                        |
+| **$1 – 2\ \mu\text{m}$**  | **Deep Alveoli**              | **Optimal Sedimentation:** The ideal size for maximum peripheral lung deposition.                                                            |
+| **$< 0.5\ \mu\text{m}$**  | **Exhaled out**               | **Diffusion:** They are so light they behave like gas molecules; they stay suspended in the air and are breathed right back out.             |

@@ -1,0 +1,77 @@
+Pharmaceutics from the Mordad 1404 questions. 
+
+Missed/unsure/wrong questions:
+
+| State       | topic keyword                                                                                                                                                                       | Outcome      |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Don't know  | Propulsive vs segmental vs mass movements of the bowel??                                                                                                                            | False        |
+| Not sure    | Spring + parachute in bioavailability? It was a diagram and asked which process does it show.                                                                                       | True         |
+| Don't know  | The type of balance between the drug in the plasma and the tissue? Choices were stuff like gradient bal, conc bal, physiological bal, dyanmic bal.                                  | False        |
+| Don't know  | Paracellular transport? asked what percentage of the total absorption is paracellular.                                                                                              | False        |
+| Don't know  | Equation to calculate the drug concentration after a single oral dose. The choices had the C, K, e, etc. moved around.                                                              | False        |
+| Don't know  | Calculating dosing interval based on VD, weight, bioavailablity, etc.                                                                                                               | Blank        |
+| Pretty sure | Pharmaceutical alternatives should have the same API and the same formulation. Right?                                                                                               | False        |
+| Don't know  | Which one shows the reabsorption transporter in the small bowel and where is it?? the choices were like MDR1, BCRP, etc.                                                            | Blank        |
+| Not sure    | Emulsions, gibbs free energy, stability, how they chnage based on droplet size, etc.                                                                                                | False        |
+| Pretty sure | Based on noyes-whitney, which one is a "sink" condition? I said CS has to be less than 0.1C, right?                                                                                 | False        |
+| Don't know  | DLVO theory, floculation in which phase of the daigram of potential energy against particle distance etc. No idea.                                                                  | True (lucky) |
+| Unsure      | Tonicity and it's relation to freezing point, boiling point, etc.                                                                                                                   | True         |
+| Don't know  | Viscometer types, their mechanism, falling sphere, follows which rule?                                                                                                              | False        |
+| Don't know  | Arrhnius equation, units, usage, slope, what do they show, etc.                                                                                                                     | True (lucky) |
+| Don't know  | Droplet diameter, diffusion multiplier, stokes-einstein equation? no fucking clue                                                                                                   | True (lucky) |
+| Unsure      | Surface tension of water, what happens when hydrophes are added, ions are added, organic material are added, etc.                                                                   | True         |
+| Unsure      | Chemical used as suspender for IV formulations. PEG, povidone, methyl celulose, etc. I said PEG 400.                                                                                | False        |
+| Don't know  | Bisulfite sodium, what pH is it used in as antioxidant?                                                                                                                             | True         |
+| Unsure      | Frequent sulfactant for opthalmic formulations? Alkyl sulfites? Polysorbates? etc. I said polysorbate.                                                                              | True         |
+| Don't know  | Suppository calculations. How much base if need A supps containing B miligrams of drug with a "transport factor" of C. Don't even know what that last one means.                    | False        |
+| Don't know  | Emulsions. Which one forms on their own Nano emulsions, suspensions, microemulsion, large emulsions, etc.                                                                           | False        |
+| Pretty sure | Bicarbonate sodium in which system? Hydrophylic matrix, mucoadhesive, floating, etc. I said floating.                                                                               | True         |
+| Unsure      | Nebulizers. Which type of nebulizer uses piezoelectric crystals? I said mesh.                                                                                                       | True         |
+| Unsure      | Systems that use hydrostatic pressure for drug release? Hydrophilic pol matrix, ion exchange, osmotic pumps, etc.                                                                   | False        |
+| Don't know  | Polymers used in the thin coating of tabs. Which one of them is not soluble in water? I said povidone based on the vibe                                                             | False        |
+| Don't know  | Accela-cota. What is it? What kind of coater is it? I have no idea.                                                                                                                 | Blank        |
+| Unsure      | D90 value of a bacteria. How long does it take for it to die in a condition, etc.                                                                                                   | True         |
+| Don't know  | Polyvinyl acetate phtalate, which stage of sugar coating is it used in, what are the stages of sugar coating??                                                                      | True (lucky) |
+| Don't know  | Hard gel shell for caps. What are the steps? What temp, what concentrations? I have no idea                                                                                         | Blank        |
+| Don't know  | Soft gels vs hard gels shells. Differences in uses, formulation, etc.                                                                                                               | Blank        |
+| Don't know  | Polymer used in making caps for DPIs? Which one's exclusive?                                                                                                                        | True         |
+| Pretty sure | Which element is more resistant to heat sterilization. I said bacterial spores.                                                                                                     | False        |
+| Pretty sure | Formulation for effervescent tab. I picked the one with sodium carbonate.                                                                                                           | True         |
+| Don't know  | Which expeitnt can be used as both a dry and soluble binder in tabs? Cellulose, gelatin, startch, etc.                                                                              | False        |
+| Pretty sure | Granulation procedures. Coalescence, breakage, abrastion transfer, etc.                                                                                                             | True         |
+| Don't know  | Acceptable abrasion rate for tabs in abrastion tests? less than 5%? less than 1%?                                                                                                   | False        |
+| Don't know  | Agglomerated powders. dryers used to make powders. spray dryer/ fluidized bed dryer? which one's used for what powder etc.                                                          | False        |
+| Don't know  | Granulators. Which ones are used for what type of granules? High speed mixer/granulator, fluidized bed, roller compactor, etc.                                                      | False        |
+| Unsure      | long term stability studies on drugs. what conditions? what conditions for iran? temp and humidity.                                                                                 | False        |
+| Unsure      | Emulsifying ointment. What type of base is it? hydrophilic, hydrophobic, etc.                                                                                                       | True         |
+| Don't know  | Cold cream. vanishing cream. formulation with stearic aid, triethonalmine, glycerol, is for which? etc.                                                                             | True         |
+| Don't know  | Solubility exam instruments. Instrument 1, 2, 3, 4?? What are the purposes of each, mechanisms, usage, etc. I have no idea.                                                         | Blank        |
+| Pretty sure | HLB calculations with RHLB. Mixing tween and span to get specific HLB.                                                                                                              | True         |
+| Not sure    | type of mills, which one makes the smallest or biggeest particles? hammer mill, ball mill, fluid energy mill, etc.                                                                  | True         |
+| Not sure    | Different mixers, rotating mixer, etc. What mechanism do they use? e.g. convection mixing, diffusion mixing, shear mixing turbulent mixing.                                         | False        |
+| Not sure    | Arabic gum and katira. Purposes, usages, etc.                                                                                                                                       | True         |
+| Don't know  | Emulsion, suspension, etc. instabilities. Sedimentation, coalcencene, caking, etc. what are they, when do they happen                                                               | True         |
+| Don't know  | Transdermal delivery. attributes of drug for TD delivery. molecular weight, dose, logP, etc.                                                                                        | True         |
+| Not sure    | Spirits, aromatic waters, linctus, lintmens (??), what are they etc.                                                                                                                | True         |
+| Not sure    | mannitol. its role in formulation. its role in liquid formulations. cyroprotectant? buffer? antioxidant? sweetener?                                                                 | False        |
+| Not sure    | kinetics of absorption and elimination. zero, first, second degree. what does the half-life depend on for each?                                                                     | True         |
+| Not sure    | renal clearance, total clenarance. what does their ratio show?                                                                                                                      | True         |
+| Pretty sure | Stomach pH in fasting state. 1-3.5?                                                                                                                                                 | True         |
+| Not sure    | Another q about degree of kinetics. 0, 1, 2 degree. Which one's half life doesn't depend on concentration?                                                                          | True         |
+| Don't know  | Bingham bodies. what is it? which rheological concept shows it? newotonian, pseudoplastic, etc.                                                                                     | False        |
+| Pretty sure | Hygroscopicity, efflorescene, deliquescence, dehydration. What do they mean?                                                                                                        | True         |
+| Not sure    | Stoke's law. increasing which element increases the sedimentation speed by a power of 2? diameter of partciles?                                                                     | True         |
+| Don't know  | Henderson-hasslebach equation. what does it say? in which pH would a specific weak acid drug with a pH of 4.5 be most soluble?                                                      | True         |
+| Don't know  | Water activity. Its relation to fungal growth. what's the minimum water activity for fungal growth                                                                                  | Blank        |
+| Don't know  | Positive mixture, negative mixture, solid mixture, netural mixture. What do they even mean? Which one is "hard to form and breaks rapidly"                                          | True         |
+| Not sure    | roller mills. what mechanism do they use for reducing particle size. attrition, impaciton, vibration, etc.                                                                          | True         |
+| Don't know  | Suppository formulation. which base for a lipophilic drug? which base for a hydrophilic drug? coca, theobroma, etc.                                                                 | False        |
+| Pretty sure | Advantages of DPI to pMDI. overall comparison and differences                                                                                                                       | True         |
+| Not sure    | Sugarcoating stages. Which one adds the most weight to the pill. Smoothing, subcoating, sealing, etc.                                                                               | False        |
+| Not sure    | Cap shell sizing. which cap shell has the biggest volume? size 0, 1, 2, 3 etc.                                                                                                      | True         |
+| Not sure    | Which one can be used as a dry binder in tab formulation?                                                                                                                           | False        |
+| Don't know  | Wet granules. Methods, devices. Roller ocmpaction, slugging, shear, melt, etc.                                                                                                      | False        |
+| Not sure    | Ointment bases. Which one doesn't have water but can be dissolved in water? macrogel, emulsion, absorption, etc.                                                                    | False        |
+| Don't know  | Different types of emulsifer surfactants. Which type is cetrimide. sytnehtic, natural, anionic, cationic, etc.                                                                      | True         |
+| Not sure    | Types of water. Water for injection, purified water, sterile water for injection, bacteriostatic, etc. What are the differences. Which one isn't sterile but doesn't have pyrogens? | True         |
+

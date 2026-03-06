@@ -1,0 +1,8 @@
+| **Polymer**                          | **Heat Resistance**          | **Moisture Resistance** | **Transparency**  | **Common Pharmaceutical Use**                                       |
+| ------------------------------------ | ---------------------------- | ----------------------- | ----------------- | ------------------------------------------------------------------- |
+| **Polypropylene (PP)**               | **High** (Can be autoclaved) | **High**                | Translucent/Clear | Vials, closures, and containers needing sterilization.              |
+| **PET (Polyethylene Terephthalate)** | **Moderate/High**            | **High**                | **Excellent**     | Liquid oral bottles (resembles glass).                              |
+| **HDPE (High-Density Polyethylene)** | **Moderate**                 | **Excellent**           | Opaque            | Standard white pill bottles (Stock bottles).                        |
+| **LDPE (Low-Density Polyethylene)**  | **Low** (Melts easily)       | **High**                | Translucent       | Squeeze bottles (eye drops/nasal sprays).                           |
+| **PVC (Polyvinyl Chloride)**         | **Low**                      | **Moderate/Poor**       | Clear             | Blister packs (often coated with PVDC to improve moisture barrier). |
+| **Polystyrene (PS)**                 | **Very Low**                 | **Poor**                | Clear             | Cheap, clear vials; not for long-term stability or heat.            |

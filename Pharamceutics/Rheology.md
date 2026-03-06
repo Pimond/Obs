@@ -1,0 +1,9 @@
+![[Pasted image 20260213165500.png]]
+
+| **System Type**                    | **Viscosity (η) Behavior**                     | **Yield Value?** | **Rheogram Description**                                              | **Pharmaceutical Examples**                                                           |
+| ---------------------------------- | ---------------------------------------------- | ---------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Newtonian**                      | **Constant**; independent of shear rate.       | No               | Straight line passing through the origin.                             | Water, Ethanol, Simple Syrup, Glycerin.                                               |
+| **Plastic** (Bingham Bodies)       | **Decreases** once flow begins.                | **Yes**          | Does not pass through origin; linear only after "Yield Value" is met. | Flocculated suspensions, concentrated ointments (e.g., Zinc Oxide paste).             |
+| **Pseudoplastic** (Shear-thinning) | **Decreases** immediately as stress increases. | No               | Curve starts at origin; slope increases with stress (gets "thinner"). | Polymer solutions (Methylcellulose, Tragacanth, Sodium Alginate).                     |
+| **Dilatant** (Shear-thickening)    | **Increases** as stress increases.             | No               | Curve starts at origin; slope decreases with stress (gets "thicker"). | Highly concentrated deflocculated suspensions ($>50\%$ starch or inorganic pigments). |
+| **Thixotropy**                     | **Decreases** over time under constant stress. | Varies           | Features a **Hysteresis Loop** (up-curve and down-curve don't match). | Bentonite magma, Procaine Penicillin G injections.                                    |

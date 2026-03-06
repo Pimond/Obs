@@ -1,0 +1,20 @@
+* **Evening primrose oil** is a common choice for managing **premenstrual syndrome (PMS)** because it contains high levels of **gamma-linolenic acid (GLA)**; this fatty acid is a precursor to anti-inflammatory prostaglandins that help reduce breast pain (mastalgia).
+* The medicinal part of the **Hops** plant (*Humulus lupulus*) is the **strobile**, which are the dried female flower cones used for their sedative and sleep-inducing effects.
+* **Morphine** is a benzylisoquinoline alkaloid biogenetically derived from the amino acid **Tyrosine**, distinguishing it from indole alkaloids like **Reserpine** or **Vincristine**, which originate from Tryptophan.
+* **Barbaloin (aloin)** is the active stimulant laxative component found in **Aloe** (*Sabre Zard*); it is a C-glycoside of anthrone, whereas **Licorice** relies on glycyrrhizin and **Thyme** on volatile oils like thymol.
+* **Peppermint** (*Mentha × piperita*) is the species specifically cultivated for the **highest menthol content**, providing its characteristic carminative and cooling properties; in contrast, **Spearmint** is defined by its carvone content.
+* The pungent, "hot" taste of fresh **Ginger** is caused by **gingerols**; when the rhizome is dried, these are converted into **shogaols**, which are even more pungent.
+* **Inulin** is a polysaccharide composed of **fructofuranose units** used to evaluate renal function; because it is filtered by the glomerulus but neither reabsorbed nor secreted, it is the gold standard for measuring the **Glomerular Filtration Rate (GFR)**.
+* Historically, warnings were issued regarding the potential of ***Rauwolfia serpentina*** (and its main alkaloid, **reserpine**) to promote breast cancer, though modern clinical evidence on this link is considered inconclusive.
+* The liquid portion of **Rose essential oil** is primarily made of **alcoholic compounds** such as Geraniol and Citronellol, which provide the floral scent; at lower temperatures, the hydrocarbon "stearoptene" fraction solidifies.
+* **Scillaren** is a **bufadienolide** cardiac glycoside found in Squill, characterized by a **six-membered** lactone ring; this differs from **Digoxin**, which is a cardenolide with a **five-membered** ring.
+* **Allantoin**, often extracted from Comfrey, is used for external wounds because it stimulates **tissue regeneration** and epithelialization; however, Comfrey also contains hepatotoxic pyrrolizidine alkaloids like **symphytine**, which must not be ingested.
+* **Sinalbin** belongs to the **glucosinolate** group (specifically from white mustard); when crushed, the enzyme myrosinase hydrolyzes it into pungent isothiocyanates.
+* The **fruit** of ***Anethum graveolens*** (Dill) is the medicinal part utilized for its carminative and digestive benefits, commonly referred to in pharmacy as "Dill seed."
+* **Soybean** (*Glycine max*) is a major source of **isoflavonoids** like Genistein and Daidzein, which serve as phytoestrogens for hormonal balance.
+* The fleshy pulp of the **Tamarind** fruit is rich in **organic acids and their salts** (specifically tartaric and citric acid), giving it its characteristic sour taste and mild laxative effect.
+* In plants like *Inula helenium*, the polysaccharide **inulin** is stored in the **root** and rhizome as a reserve carbohydrate.
+* **Ginseng** is characterized by the presence of **saponins**, specifically triterpenoid saponins known as **ginsenosides**, which are responsible for its adaptogenic properties.
+* **Curare** is a general term for crude plant extracts (like from *Chondrodendron tomentosum*) used as **arrow poisons** in South America; it acts as a potent neuromuscular blocking agent.
+* **Rhein** is the most important anthraquinone laxative found in the fruit pulp of ***Cassia fistula*** (Purging Cassia), distinguishing it from the sennosides found in Senna.
+* **Eugenol** is the primary essential oil component of **Allspice** (*Pimenta dioica*), providing its warm, spicy aroma similar to cloves and offering mild anesthetic properties.

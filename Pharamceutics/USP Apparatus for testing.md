@@ -1,0 +1,6 @@
+| **USP Type** | **Apparatus**              | **Best Used For...**                                  | **Key Characteristics**                                                     |
+| ------------ | -------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Type 1**   | **Basket**                 | **Capsules**, beads, or **floating** dosage forms.    | The drug is contained in a 40-mesh wire basket to prevent it from floating. |
+| **Type 2**   | **Paddle**                 | **Rapid/Immediate release** oral solids (Tablets).    | Most common; drug must sink to the bottom (or use a sinker).                |
+| **Type 3**   | **Reciprocating Cylinder** | **Extended-release** or pH-dependent drugs.           | Mimics GI transit by moving drug between different pH beakers.              |
+| **Type 4**   | **Flow-Through Cell**      | **Poorly soluble (BCS IV)**, implants, suppositories. | Constant fresh media flow maintains "sink conditions."                      |
